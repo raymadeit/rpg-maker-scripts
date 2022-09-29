@@ -50,7 +50,7 @@
  *
  */
 
-const RRR = RRR || {};
+var RRR = RRR || {};
 RRR.SkillGroups = RRR.SkillGroups || {};
 RRR.NotetagGetters = RRR.NotetagGetters || [];
 
